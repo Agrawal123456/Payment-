@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Donate For a cause</title>
+    <link rel="shortcut icon" href="images/logo.png" type="image/x-icon">
+    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <!-- Main -->
+    <div class="main">
+        <!-- Navbar -->
+        <div class="navbar">
+            <!-- checkbox -->
+            <input type="checkbox" id="check">
+            <label for="check" class="checkbtn">
+              <i class="fas fa-bars"></i>
+            </label>
+        <!-- Logo -->
+            <img src="images/logo.png" class="logo">
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="https://www.thesparksfoundationsingapore.org/">About</a></li>
+                <li><a href="https://www.thesparksfoundationsingapore.org/contact-us/">Contact</a></li>
+            </ul>
+        </div>
+        
+        <!-- content -->
+        <div class="content">
+            <h1>Donate For a cause</h1>
+            <p>" Let's come together to make this world better "</p>
+           
+        <!-- Button -->
+            <div>
+                <button type="button"><a href="https://rzp.io/l/ooqHjM7">Donate Now</a> </button>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
